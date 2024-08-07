@@ -1,5 +1,5 @@
 // pages/index.js
-import Chatbot from '../components/chatbot';
+import Chatbot from '../src/components/chatbot';
 
 export default function Home() {
   return (
